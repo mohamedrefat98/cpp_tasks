@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649935858 source:d:\iti\tasks\oop with c++\2nd lab\sqrt of quadratic equation\main.cpp
+	<iostream>
+	<cmath>
+
