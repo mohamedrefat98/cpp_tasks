@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650539934 source:d:\iti\tasks\oop with c++\5th lab\str concatination\main.cpp
+	<iostream>
+	<string.h>
+
